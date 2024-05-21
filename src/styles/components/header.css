@@ -115,7 +115,6 @@
 /* xl */
 @media (min-width: 1280px) {
   .header__logo {
-    width: var(--size-8xl);
     height: var(--size-8xl);
   }
 
