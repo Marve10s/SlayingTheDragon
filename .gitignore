@@ -1,0 +1,26 @@
+# Ignore directories
+.cache/
+.idea/
+.nyc_output/
+.parcel-cache/
+.verdaccio_storage/
+.vscode/*
+!/vscode/extensions.json
+coverage/
+dist/
+lib/
+logs/
+node_modules/
+parcel-bundle-reports/
+tmp
+/target/
+
+# Ignore files
+.DS_Store
+npm-debug.log*
+package-lock.json
+sourcemap-info.json
+yarn-debug.log*
+yarn-error.log*
+*.log
+*.min.js
